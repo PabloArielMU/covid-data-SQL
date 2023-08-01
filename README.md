@@ -28,6 +28,7 @@ The worldwide analysis of COVID-19 data reveals significant discrepancies betwee
 ## References
 
 From [Alex The Analyst](https://www.youtube.com/watch?v=opJgMj1IUrc&t=5s)
+
 [Our World in Data](https://ourworldindata.org/covid-deaths)
 
 [Back To The Top](#covid-data-sql)
