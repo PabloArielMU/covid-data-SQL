@@ -4,7 +4,7 @@ where continent is not null
 
 
 --looking at total cases vs total deaths
--- shows likelihoof of dying if you contract  covid in argentina
+-- shows likelihood of dying if you contract  covid in argentina
 
 select location, date, total_cases, total_deaths, (total_deaths / total_cases) * 100 as death_percentage
 from portfolio_project.dbo.CovidDeaths$
